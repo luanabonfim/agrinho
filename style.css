@@ -2,7 +2,7 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: lab(86.2% -3.83 -1.89);
     --botao-azul: rgb(194, 52, 85);
-    --cor-de-fundo: hsl(129, 21%, 45%);
+    --cor-de-fundo: hwb(235 53% 33%);
     --fonte-principal: 'Inter';
 }
 
