@@ -1,5 +1,5 @@
 :root {
-    --branco-principal: oklab(100% 0 -0.00011 / 0);
+    --branco-principal: oklch(99.703% 0.00011 271.152 / 0);
     --cinza-secundario: lab(86.2% -3.83 -1.89);
     --botao-azul: lch(21.71% 35.67 140.03);
     --cor-de-fundo: lch(21.71% 35.67 140.03);
