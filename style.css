@@ -1,8 +1,8 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: lab(86.2% -3.83 -1.89);
-    --botao-azul: rgb(194, 52, 85);
-    --cor-de-fundo: hwb(126 4% 76%);
+    --botao-azul: lch(21.71% 35.67 140.03);
+    --cor-de-fundo: lch(21.71% 35.67 140.03);
     --fonte-principal: 'Inter';
 }
 
